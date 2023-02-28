@@ -6,7 +6,7 @@
 
 md目录为文章源文件，测试链接：http://btcabc.cn/md/test.md
 
-html为网页渲染文件，测试链接：http://btcabc.cn/html/test.md
+html为网页渲染文件，测试链接：http://btcabc.cn/html/test.html
 
 txt目录为文本，
 
