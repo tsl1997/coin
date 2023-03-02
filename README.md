@@ -6,7 +6,7 @@
 
 ### 文章目录：
 
-
+[批量生成以太坊钱包(JS版)](http://btcabc.cn/html/2023/3/2.html)
 
 [在Goerli测试网上免费mint一个加密朋克NFT(已完)](http://btcabc.cn/html/2023/3/1.html)
 
