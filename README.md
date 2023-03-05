@@ -1,7 +1,6 @@
 # 加密世界
-区块链内容在此处。
-本文档用MD编写，遵循MD语法。
-
+区块链内容在此处。本文档用MD编写，遵循MD语法。
+搜索内容请按 Ctrl + F
 > 因为懒，所以就这样。——先圣
 
 ### 文章目录：
@@ -24,13 +23,7 @@
 
 ### 目录说明：
 
-md目录为文章源文件，测试链接：http://btcabc.cn/md/test.md
-
-html为网页渲染文件，测试链接：http://btcabc.cn/html/test.html
-
-txt目录为文本，
-
-img目录存放图片。
+md、html、txt、img目录，[测试源文件](http://btcabc.cn/md/test.md)，[测试网页](http://btcabc.cn/html/test.html)
 
 ### 联系我们：
 
