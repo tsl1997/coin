@@ -1,17 +1,18 @@
 # 加密世界
 区块链内容在此处。本文档用MD编写，遵循MD语法。
 搜索内容请按 Ctrl + F
+
 > 因为懒，所以就这样。——先圣
 
 ### 文章目录：
 
-[页面禁止复制文字怎么办？](http://btcabc.cn/html/2023/3/51.html)
+[页面禁止复制文字怎么办？](./html/2023/3/51.html)
 
-[知识诅咒](http://btcabc.cn/html/2023/3/5.html)
+[知识诅咒](./html/2023/3/5.html)
 
-[批量生成以太坊钱包(JS版)](http://btcabc.cn/html/2023/3/2.html)
+[批量生成以太坊钱包(JS版)](./html/2023/3/2.html)
 
-[在Goerli测试网上免费mint一个加密朋克NFT(已完)](http://btcabc.cn/html/2023/3/1.html)
+[在Goerli测试网上免费mint一个加密朋克NFT(已完)](./html/2023/3/1.html)
 
 ### 好文推荐：
 
@@ -23,7 +24,7 @@
 
 ### 目录说明：
 
-md、html、txt、img目录，[测试源文件](http://btcabc.cn/md/test.md)，[测试网页](http://btcabc.cn/html/test.html)
+md、html、txt、img目录，[测试源文件](./md/test.md)，[测试网页](./html/test.html)
 
 ### 联系我们：
 
