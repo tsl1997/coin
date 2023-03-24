@@ -6,7 +6,11 @@
 
 ### 文章目录：
 
-[【推荐】白嫖Lens账号](./html/2023/3/lens.html)
+[ZETA测试网免费领取代币](./html/2023/3/24/)
+
+[zkSync撸全图](./html/2023/3/zksync.html)
+
+[【推荐】撸Phaver生态代币](./html/2023/3/lens.html)
 
 [【推荐】无限注册Github账号](./html/2023/3/16.html)
 
@@ -29,6 +33,8 @@
 ### 目录说明：
 
 md、html、txt、img目录，[测试源文件](./md/test.md)，[测试网页](./html/test.html)
+
+> 之前是上面的目录，后来觉得麻烦，直接放在一起。
 
 ### 联系我们：
 
